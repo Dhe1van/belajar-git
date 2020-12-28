@@ -3,7 +3,7 @@ Senin:
   2. Matematika
   3. Bahasa Indonesia
   4. Bahasa Indonesia
-  5. Agama
+  5. Bahasa Indonesia
   6. Olahraga
   
  Selasa:
@@ -11,4 +11,4 @@ Senin:
   2. PKN
   3. PKN
   4. IPS
-  4. IPS
+  5. Olahraga
