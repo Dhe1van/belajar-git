@@ -12,3 +12,10 @@ Senin:
   3. PKN
   4. Olahraga
   5. Olahraga
+ 
+ Rabu:
+  1. MTK
+  2. MTK
+  3. Bahasa Indonesia
+  4. Bahasa Indonesia
+  5. PKN
